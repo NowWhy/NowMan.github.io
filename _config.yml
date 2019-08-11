@@ -21,7 +21,6 @@ title                    : "김남원의 블로그"
 title_separator          : "-"
 name                     : "김남원(nowmansci)"
 description              : "김남원이 만들어가는 들"
-cover: https://images.unsplash.com/photo-1517315003714-a071486bd9ea?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80
 url                      : "https://nowmansci.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
