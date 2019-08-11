@@ -19,9 +19,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "김남원의 블로그"
 title_separator          : "-"
-name                     : "김남원(NowWhy)"
+name                     : "김남원(nowmansci)"
 description              : "김남원이 만들어가는 들"
-url                      : "https://nowwhy.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://nowmansci.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "김남원(NowWhy)"
+  name             : "김남원(nowmansci)
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "그래 나 휴학했다."
   location         : "South Korea"
