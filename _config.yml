@@ -19,7 +19,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "김남원의 블로그"
 title_separator          : "-"
-name                     : "김남원(nowmansci)"
+name                     : "김남원(now-man)"
 description              : "김남원이 만들어가는 들"
 url                      : "https://nowmansci.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "김남원(nowmansci)
+  name             : "김남원(now-man)
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "그래 나 휴학했다."
   location         : "South Korea"
