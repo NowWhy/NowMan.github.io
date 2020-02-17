@@ -1,1 +1,1 @@
-# nowmansci.github.io
+# now-man.github.io
